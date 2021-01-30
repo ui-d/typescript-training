@@ -1,0 +1,23 @@
+{
+  "name": "ts-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ui-d/typescript-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ui-d/typescript-training/issues"
+  },
+  "homepage": "https://github.com/ui-d/typescript-training#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
